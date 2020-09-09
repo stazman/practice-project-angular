@@ -1,6 +1,9 @@
 # AngularTourOfHeroes
 
+This is a practice project that follows the Tour of Heroes tutorial found in the Angular docs.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+
 
 ## Development server
 
